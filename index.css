@@ -1,0 +1,13 @@
+start{
+    position:absolute;
+}
+fin{
+    position:absolute;
+    top: 2500px;
+}
+#coche{
+    margin-top:12px;
+    width:300px;
+    height:300px;
+    margin-left: 35%;
+}
